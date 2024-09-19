@@ -21,3 +21,4 @@ num = int(input('Digite um valor')
 if num % 2 == 0
 ```
 Olá pequeno gafanhoto 🖖👌🐵
+como diria @gustavoguanabara
